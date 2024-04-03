@@ -12,9 +12,9 @@ namespace CRUD.Models.MetaData
         public int Id { get; set; }
         [Required(ErrorMessage ="Name is null")]
         public string Name { get; set; } = null!;
-        [Required(ErrorMessage ="Role is null")]
+        
         public int RoleId { get; set; }
-
+        [Required(ErrorMessage = "Role is null")]
         public virtual Role Role { get; set; } = null!;
     }
 }

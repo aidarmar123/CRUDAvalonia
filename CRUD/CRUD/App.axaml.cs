@@ -18,6 +18,11 @@ namespace CRUD
             AvaloniaXamlLoader.Load(this);
         }
 
+        public App()
+        {
+            RegestrDescriptor();
+        }
+
 
         private void RegestrDescriptor()
         {

@@ -1,57 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aidar\\source\\repos\\CRUD\\",
+  "WorkspaceRootPath": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\source\\repos\\crud\\crud\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|solutionrelative:crud\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\desktop\\avalonia\\crudavalonia\\crud\\crud\\windows\\errormessage.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|solutionrelative:crud\\windows\\errormessage.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\source\\repos\\crud\\crud\\models\\metadata\\metauser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|solutionrelative:crud\\models\\metadata\\metauser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\source\\repos\\crud\\crud\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|solutionrelative:crud\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\source\\repos\\crud\\crud\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|solutionrelative:crud\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\source\\repos\\crud\\crud\\pages\\addedituser.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|solutionrelative:crud\\pages\\addedituser.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\source\\repos\\crud\\crud\\pages\\addedituser.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|solutionrelative:crud\\pages\\addedituser.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\source\\repos\\crud\\crud\\pages\\alluser.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|solutionrelative:crud\\pages\\alluser.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\source\\repos\\crud\\crud\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|solutionrelative:crud\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\source\\repos\\crud\\crud\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\desktop\\avalonia\\crudavalonia\\crud\\crud\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|solutionrelative:crud\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\source\\repos\\crud\\crud\\pages\\alluser.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|solutionrelative:crud\\pages\\alluser.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\desktop\\avalonia\\crudavalonia\\crud\\crud\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|solutionrelative:crud\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\source\\repos\\crud\\crud\\models\\crudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\desktop\\avalonia\\crudavalonia\\crud\\crud\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|solutionrelative:crud\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\desktop\\avalonia\\crudavalonia\\crud\\crud\\pages\\addedituser.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|solutionrelative:crud\\pages\\addedituser.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\desktop\\avalonia\\crudavalonia\\crud\\crud\\models\\metadata\\metauser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|solutionrelative:crud\\models\\metadata\\metauser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\desktop\\avalonia\\crudavalonia\\crud\\crud\\pages\\alluser.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|solutionrelative:crud\\pages\\alluser.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\desktop\\avalonia\\crudavalonia\\crud\\crud\\models\\crudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|solutionrelative:crud\\models\\crudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\source\\repos\\crud\\crud\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\desktop\\avalonia\\crudavalonia\\crud\\crud\\pages\\alluser.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|solutionrelative:crud\\pages\\alluser.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\desktop\\avalonia\\crudavalonia\\crud\\crud\\pages\\addedituser.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|solutionrelative:crud\\pages\\addedituser.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\desktop\\avalonia\\crudavalonia\\crud\\crud\\service\\validationline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|solutionrelative:crud\\service\\validationline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\desktop\\avalonia\\crudavalonia\\crud\\crud\\windows\\errormessage.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|solutionrelative:crud\\windows\\errormessage.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\desktop\\avalonia\\crudavalonia\\crud\\crud\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|solutionrelative:crud\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\desktop\\avalonia\\crudavalonia\\crud\\crud\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|solutionrelative:crud\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\source\\repos\\crud\\crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\desktop\\avalonia\\crudavalonia\\crud\\crud\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|solutionrelative:crud\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|c:\\users\\aidar\\desktop\\avalonia\\crudavalonia\\crud\\crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{6F7E55D3-8C3B-4FB9-B87D-2E6AD5690E8C}|CRUD\\CRUD.csproj|solutionrelative:crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -62,28 +74,130 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ErrorMessage.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\Windows\\ErrorMessage.axaml.cs",
+              "RelativeDocumentMoniker": "CRUD\\Windows\\ErrorMessage.axaml.cs",
+              "ToolTip": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\Windows\\ErrorMessage.axaml.cs",
+              "RelativeToolTip": "CRUD\\Windows\\ErrorMessage.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T10:51:28.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorMessage.axaml",
+              "DocumentMoniker": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\Windows\\ErrorMessage.axaml",
+              "RelativeDocumentMoniker": "CRUD\\Windows\\ErrorMessage.axaml",
+              "ToolTip": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\Windows\\ErrorMessage.axaml",
+              "RelativeToolTip": "CRUD\\Windows\\ErrorMessage.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-03T10:50:32.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MetaUser.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\Models\\MetaData\\MetaUser.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\Models\\MetaData\\MetaUser.cs",
               "RelativeDocumentMoniker": "CRUD\\Models\\MetaData\\MetaUser.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\Models\\MetaData\\MetaUser.cs",
+              "ToolTip": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\Models\\MetaData\\MetaUser.cs",
               "RelativeToolTip": "CRUD\\Models\\MetaData\\MetaUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-01T15:45:34.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\App.axaml.cs",
+              "RelativeDocumentMoniker": "CRUD\\App.axaml.cs",
+              "ToolTip": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\App.axaml.cs",
+              "RelativeToolTip": "CRUD\\App.axaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:42:16.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEditUser.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\Pages\\AddEditUser.axaml.cs",
+              "RelativeDocumentMoniker": "CRUD\\Pages\\AddEditUser.axaml.cs",
+              "ToolTip": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\Pages\\AddEditUser.axaml.cs",
+              "RelativeToolTip": "CRUD\\Pages\\AddEditUser.axaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwCkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:30:46.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CrudContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\Models\\CrudContext.cs",
+              "RelativeDocumentMoniker": "CRUD\\Models\\CrudContext.cs",
+              "ToolTip": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\Models\\CrudContext.cs",
+              "RelativeToolTip": "CRUD\\Models\\CrudContext.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwBMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:39:27.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CRUD\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\Models\\User.cs",
+              "RelativeToolTip": "CRUD\\Models\\User.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:04:58.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AllUser.axaml",
+              "DocumentMoniker": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\Pages\\AllUser.axaml",
+              "RelativeDocumentMoniker": "CRUD\\Pages\\AllUser.axaml",
+              "ToolTip": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\Pages\\AllUser.axaml",
+              "RelativeToolTip": "CRUD\\Pages\\AllUser.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T14:30:31.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AllUser.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\Pages\\AllUser.axaml.cs",
+              "RelativeDocumentMoniker": "CRUD\\Pages\\AllUser.axaml.cs",
+              "ToolTip": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\Pages\\AllUser.axaml.cs",
+              "RelativeToolTip": "CRUD\\Pages\\AllUser.axaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:30:31.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\Models\\Role.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\Models\\Role.cs",
               "RelativeDocumentMoniker": "CRUD\\Models\\Role.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\Models\\Role.cs",
               "RelativeToolTip": "CRUD\\Models\\Role.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -92,75 +206,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\Models\\User.cs",
-              "RelativeDocumentMoniker": "CRUD\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\Models\\User.cs",
-              "RelativeToolTip": "CRUD\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T15:04:58.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CrudContext.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\Models\\CrudContext.cs",
-              "RelativeDocumentMoniker": "CRUD\\Models\\CrudContext.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\Models\\CrudContext.cs",
-              "RelativeToolTip": "CRUD\\Models\\CrudContext.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T14:39:27.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CRUD.csproj",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\CRUD.csproj",
-              "RelativeDocumentMoniker": "CRUD\\CRUD.csproj",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\CRUD.csproj",
-              "RelativeToolTip": "CRUD\\CRUD.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-01T14:38:43.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AddEditUser.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\Pages\\AddEditUser.axaml.cs",
-              "RelativeDocumentMoniker": "CRUD\\Pages\\AddEditUser.axaml.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\Pages\\AddEditUser.axaml.cs",
-              "RelativeToolTip": "CRUD\\Pages\\AddEditUser.axaml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T14:30:46.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AllUser.axaml",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\Pages\\AllUser.axaml",
-              "RelativeDocumentMoniker": "CRUD\\Pages\\AllUser.axaml",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\Pages\\AllUser.axaml",
-              "RelativeToolTip": "CRUD\\Pages\\AllUser.axaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-01T14:30:31.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "MainWindow.axaml",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\MainWindow.axaml",
               "RelativeDocumentMoniker": "CRUD\\MainWindow.axaml",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\MainWindow.axaml",
               "RelativeToolTip": "CRUD\\MainWindow.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-01T13:21:09.915Z",
@@ -168,37 +218,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainWindow.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\MainWindow.axaml.cs",
-              "RelativeDocumentMoniker": "CRUD\\MainWindow.axaml.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\MainWindow.axaml.cs",
-              "RelativeToolTip": "CRUD\\MainWindow.axaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "DocumentIndex": 10,
+              "Title": "ValidationLine.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\Service\\ValidationLine.cs",
+              "RelativeDocumentMoniker": "CRUD\\Service\\ValidationLine.cs",
+              "ToolTip": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\Service\\ValidationLine.cs",
+              "RelativeToolTip": "CRUD\\Service\\ValidationLine.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T13:21:05.873Z",
+              "WhenOpened": "2024-04-03T10:32:56.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "App.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\App.axaml.cs",
-              "RelativeDocumentMoniker": "CRUD\\App.axaml.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\App.axaml.cs",
-              "RelativeToolTip": "CRUD\\App.axaml.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T14:42:16.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "AddEditUser.axaml",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\Pages\\AddEditUser.axaml",
+              "DocumentMoniker": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\Pages\\AddEditUser.axaml",
               "RelativeDocumentMoniker": "CRUD\\Pages\\AddEditUser.axaml",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\Pages\\AddEditUser.axaml",
+              "ToolTip": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\Pages\\AddEditUser.axaml",
               "RelativeToolTip": "CRUD\\Pages\\AddEditUser.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-01T14:30:46.868Z",
@@ -206,27 +243,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AllUser.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\Pages\\AllUser.axaml.cs",
-              "RelativeDocumentMoniker": "CRUD\\Pages\\AllUser.axaml.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\Pages\\AllUser.axaml.cs",
-              "RelativeToolTip": "CRUD\\Pages\\AllUser.axaml.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAwAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T14:30:31.274Z",
+              "DocumentIndex": 13,
+              "Title": "App.axaml",
+              "DocumentMoniker": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\App.axaml",
+              "RelativeDocumentMoniker": "CRUD\\App.axaml",
+              "ToolTip": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\App.axaml",
+              "RelativeToolTip": "CRUD\\App.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T14:42:52.533Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "App.axaml",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\App.axaml",
-              "RelativeDocumentMoniker": "CRUD\\App.axaml",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\App.axaml",
-              "RelativeToolTip": "CRUD\\App.axaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-01T14:42:52.533Z",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "CRUD\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\MainWindow.axaml.cs",
+              "RelativeToolTip": "CRUD\\MainWindow.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T13:21:05.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CRUD.csproj",
+              "DocumentMoniker": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\CRUD.csproj",
+              "RelativeDocumentMoniker": "CRUD\\CRUD.csproj",
+              "ToolTip": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\CRUD.csproj",
+              "RelativeToolTip": "CRUD\\CRUD.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-01T14:38:43.706Z",
               "EditorCaption": ""
             }
           ]

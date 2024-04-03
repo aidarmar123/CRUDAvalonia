@@ -22,14 +22,33 @@ public partial class AllUser : UserControl
     }
     private void BAdd_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
     {
+        
         App.mainWindow.UCMainWindow.Content = new AddEditUser(new User());
     }
 
     private void BEdit_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
     {
+        if(DGUsers.SelectedItem is User user)
+        {
+            using(var db = new CrudContext())
+            {
+                user.Role = db.Roles.FirstOrDefault(r => r.Id == user.RoleId);
+            }
+             
+            App.mainWindow.UCMainWindow.Content = new AddEditUser(user);
+        }
     }
 
     private void BRemove_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
     {
+        if (DGUsers.SelectedItem is User user)
+        {
+            using(var db = new CrudContext())
+            {
+                db.Users.Remove(user);
+                db.SaveChanges();
+                App.mainWindow.UCMainWindow.Content = new AllUser();
+            }
+        }
     }
 }

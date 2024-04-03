@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SvXr47yoD7iBN+SmKJPWULxGS3Iux5uyCUUXtbY4WA0lJwX1ZFi250FtLRK/4G5yrea2dta6uhjZ4qY1KsZWIw==",
+  "dgSpecHash": "7X1VP05zGvgYqKikqnQ8hYQIvfBEEc+89hVTt1A5cQWnVgD4Pkkdv/alWjl8/GpbeGV3T1tzWDPlrFTD5EvWBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aidar\\source\\repos\\CRUD\\CRUD\\CRUD.csproj",
+  "projectFilePath": "C:\\Users\\Aidar\\Desktop\\Avalonia\\CRUDAvalonia\\CRUD\\CRUD\\CRUD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aidar\\.nuget\\packages\\avalonia\\11.0.10\\avalonia.11.0.10.nupkg.sha512",
     "C:\\Users\\Aidar\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.0.2023020321\\avalonia.angle.windows.natives.2.1.0.2023020321.nupkg.sha512",
